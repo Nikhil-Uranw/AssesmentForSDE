@@ -1,10 +1,10 @@
 # AssesmentForSDE 
 # steps to run the code
-1)download the code file or pull the code
-2)open src/main/java
-3) then open this package com.example.PARKING_LOT
-4) then open ParkingLot1Application class (This is main class )
-5) Now run this class and then put your commands
+1)download the code file or pull the code.
+2)open src/main/java.
+3) then open this package com.example.PARKING_LOT.
+4) then open ParkingLot1Application class (This is main class ).
+5) Now run this class and then put your commands.
 
 ## below given your commands
 $ create_parking_lot 6 
